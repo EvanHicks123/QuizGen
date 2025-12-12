@@ -3,6 +3,5 @@ uvicorn
 requests
 python-multipart
 pypdf2
-
 lxml
 python-dotenv
